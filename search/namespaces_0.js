@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['main_16',['main',['../namespacemain.html',1,'']]],
-  ['mynamespace_17',['MyNamespace',['../namespace_my_namespace.html',1,'']]]
+  ['main_20',['main',['../namespacemain.html',1,'']]],
+  ['mynamespace_21',['MyNamespace',['../namespaceMyNamespace.html',1,'']]]
 ];
